@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<site>
-   <feature url="features/de.htwdd.sf.beleg.s88689s88690.feature_1.0.0.202501131324.jar" id="de.htwdd.sf.beleg.s88689s88690.feature" version="1.0.0.202501131324">
-      <category name="category_1"/>
-   </feature>
-   <category-def name="category_1" label="category_1_feature"/>
-</site>
